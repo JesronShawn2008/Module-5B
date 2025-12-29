@@ -20,7 +20,8 @@ print("",arr,"\n")
 print(np.sort(arr,axis=0))
 ```
 ## Output
-![Uploading image.png…]()
+<img width="1089" height="551" alt="image" src="https://github.com/user-attachments/assets/4aaf43d5-a5a9-4ff5-9f38-35533a6ea524" />
+
 
 ## Result
 Thus , we were successfully able to write a **NumPy** program that sorts the elements in each column of a given 2D array in ascending order.
